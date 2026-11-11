@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Osama Elmelegy
 
-<!--
-**melegy990/melegy990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as an Enterprise AI Solutions Consultant in Riyadh. Most of my time goes into helping government and enterprise teams figure out where AI fits, then building a proof of concept to show it works.
 
-Here are some ideas to get you started:
+This account is where I keep side projects and small POCs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+- Generative AI and LLM-based assistants
+- Low-code platforms (OutSystems)
+- IBM, Microsoft Azure AI, Oracle
+- Flutter for mobile prototypes
+
+**Projects here**
+- TrainerFinder: Flutter app for finding sports trainers
+- Guestservices: guest services web app for serviced apartments
+
+**Background**
+13 years in business analysis and solution consulting.
+CBAP · PMI-PBA · CSPO · OutSystems Delivery Specialist
+
+[LinkedIn](https://www.linkedin.com/in/osamamoh)
