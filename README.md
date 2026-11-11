@@ -2,6 +2,8 @@
 
 I work as an Enterprise AI Solutions Consultant in Riyadh. Most of my time goes into helping government and enterprise teams figure out where AI fits, then building a proof of concept to show it works.
 
+**Portfolio:** [melegy990.github.io](https://melegy990.github.io/) has my AI use cases, case studies and articles.
+
 This account is where I keep side projects and small POCs.
 
 **What I work with**
@@ -18,4 +20,5 @@ This account is where I keep side projects and small POCs.
 13 years in business analysis and solution consulting.
 CBAP · PMI-PBA · CSPO · OutSystems Delivery Specialist
 
-[LinkedIn](https://www.linkedin.com/in/osamamoh)
+**Find me**
+[Website](https://melegy990.github.io/) · [LinkedIn](https://www.linkedin.com/in/osamamoh) · [Articles](https://melegy990.github.io/articles.html)
